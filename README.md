@@ -7,7 +7,8 @@
 **The Actual SQL Query:** [Link Here](https://github.com/analytisor/Social_Analytics_Dashboard/blob/main/social_analytics_query.sql)
 
 ---
-
+![Dashboard Screenshot](https://github.com/analytisor/Social_Analytics_Dashboard/blob/main/overview_dashboard_screenshot.png)
+---
 ### **Project Summary**
 
 **Challenge:**  
