@@ -4,7 +4,7 @@
 **Tools Used:** PostgreSQL, Redash, Tableau  
 **Interactive Tableau Dashboard:** [Link Here](https://public.tableau.com/views/SOCIAL_MEDIA_OVERVIEW/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 **In-depth Explanation of SQL Query:** [Link Here](https://github.com/analytisor/Social_Analytics_Dashboard/blob/main/SQL_Overview.md)  
-**The Actual SQL Query:** [Link Here](#)
+**The Actual SQL Query:** [Link Here](https://github.com/analytisor/Social_Analytics_Dashboard/blob/main/social_analytics_query.sql)
 
 ---
 
